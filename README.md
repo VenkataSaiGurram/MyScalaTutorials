@@ -1,2 +1,3 @@
 # MyScalaTutorials
-scala practice while learning.
+This repository is created to prctice my scala learning.
+
